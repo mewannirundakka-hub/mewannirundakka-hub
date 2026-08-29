@@ -9,6 +9,8 @@ Building scalable, user-focused digital platforms — from mobile marketplaces t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mewan-nirundaka-112832378)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mewannirundakka@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/mewannirundakka-hub)
+[![Work GitHub](https://img.shields.io/badge/Work_GitHub-mewan--quickman-24292F?style=flat&logo=github&logoColor=white)](https://github.com/mewan-quickman)
+[![QuickMan](https://img.shields.io/badge/QuickMan-quickman.lk-00A86B?style=flat&logo=googlechrome&logoColor=white)](https://quickman.lk)
 [![Profile Views](https://komarev.com/ghpvc/?username=mewannirundakka-hub&color=brightgreen&style=flat)](https://github.com/mewannirundakka-hub)
 
 </div>
@@ -23,7 +25,8 @@ I work across the full stack — **Java/Spring Boot** on the backend, **React, N
 
 Currently a **Software Engineering Intern**, contributing to **QuickMan**, a multi-service food-delivery platform.
 
-**Open to Software Engineering internship and junior developer opportunities** where I can contribute and grow in a professional team environment.
+- 🏢 **Workplace:** [QuickMan](https://quickman.lk) — [quickman.lk](https://quickman.lk)
+- 💻 **Work GitHub:** [github.com/mewan-quickman](https://github.com/mewan-quickman)
 
 ---
 
@@ -73,6 +76,18 @@ Currently a **Software Engineering Intern**, contributing to **QuickMan**, a mul
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
+**AI Proficiency**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+![Google Genkit](https://img.shields.io/badge/Google_Genkit-4285F4?style=flat&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+
+- Building AI-assisted features with **Google Genkit** in SkillNet
+- Using **Claude** and **GitHub Copilot** for AI-assisted development, code review, and documentation workflows
+- Applied prompt-driven tooling to auto-generate API documentation and gap-analysis reports on QuickMan
+
 ---
 
 ## 📌 What I'm Working On
@@ -120,12 +135,14 @@ Currently a **Software Engineering Intern**, contributing to **QuickMan**, a mul
 
 ## 🤝 Let's Connect
 
-I'm always open to internship opportunities, collaboration on interesting projects, or just a good tech conversation.
+I'm always open to collaboration on interesting projects, or just a good tech conversation.
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mewan-nirundaka-112832378)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mewannirundakka@gmail.com)
+[![Work GitHub](https://img.shields.io/badge/Work_GitHub-mewan--quickman-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mewan-quickman)
+[![QuickMan](https://img.shields.io/badge/QuickMan-quickman.lk-00A86B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://quickman.lk)
 
 </div>
 
