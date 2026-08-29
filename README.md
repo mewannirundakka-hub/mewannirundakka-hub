@@ -126,8 +126,8 @@ Currently a **Software Engineering Intern**, contributing to **QuickMan**, a mul
 
 <div align="center">
 
-![Mewan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mewannirundakka-hub&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mewannirundakka-hub&layout=compact&theme=tokyonight&hide_border=true)
+![Mewan's GitHub Stats](https://github-readme-stats-teal-omega-10.vercel.app/api?username=mewannirundakka-hub&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-teal-omega-10.vercel.app/api/top-langs/?username=mewannirundakka-hub&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
